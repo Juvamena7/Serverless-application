@@ -10,7 +10,7 @@ This function will require the use of a Simple Email Service (SES) verified emai
 Create an SMS reminder function called sms using the contents of sms_reminder.py.
 Create a function called api_handler using the contents of api_handler.py. 
 Please note that this function will require a Step Function ARN which will be created in the next objective.
-For all functions, you will need to utilize Python 3.8 and the LambdaRuntimeRole, which has been created with this lab environment.
+For all functions, you will need to utilize Python 3.8 and the LambdaRuntimeRole.
 
 # Create a Step Function State Machine
 
